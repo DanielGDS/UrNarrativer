@@ -4,9 +4,9 @@
 
 ![alt_text](https://github.com/DanielGDS/UrNarrativer-Node-Graph-Narrative-System/blob/main/sample1.png?raw=true)
 
-
 ## Features
 - Infinite Braching and Merging dialogue capability.
+- Support multi-languages for text.
 - Dialogue&Graph save/load system.
 - Search window to node creation.
 - Backed by Unity's embedded GraphView api.
@@ -21,6 +21,9 @@
 - The included script includes full support for all the available features of this Node Narrative System.
 - And as a bonus to everything else, a built-in effect for writing text for your visual novels or any texts.
 - And like the cherry on the cake, it also includes skipping the letter-by-letter effect when the mouse clicks on the text.
+
+## Language
+- Supports adding any language in the world to your game and files automatically.
 
 ## Usage
 - Graph generates narrative saves text, character's name and link background images and link to character images into Resources folder as a scriptable objects.
