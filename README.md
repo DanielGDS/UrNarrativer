@@ -1,7 +1,7 @@
 # UrNarrativer - NodeGraph Narrative System for Unity
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/30903560f37d4fa8991300bab7236e89)](https://www.codacy.com/gh/DanielGDS/UrNarrativer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DanielGDS/UrNarrativer&amp;utm_campaign=Badge_Grade)
 - This is a node-based - visual narrative flow creation tool that uses Unity's GraphView API.
-- Is this a much improved and rewritten version of my [Node Dialogue System for Unity](https://github.com/DanielGDS/NodeDialogueSystem)
+- And this a much improved and rewritten version of my [Node Dialogue System for Unity](https://github.com/DanielGDS/NodeDialogueSystem)
 
 ![alt_text](https://github.com/DanielGDS/UrNarrativer-Node-Graph-Narrative-System/blob/main/sample1.png?raw=true)
 
