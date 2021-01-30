@@ -1,0 +1,73 @@
+  
+DialogueNode #title {
+        padding: 3px;
+    background-color: rgba(18, 120, 200, 0.91);
+}
+
+DialogueNode {
+
+    min-width: 250px;
+    background-color: rgba(40, 42, 54, 0.91);
+} 
+
+.node #title{
+    -unity-font-style: bold;
+
+    background-color: rgba(203, 61, 82, 0.91);
+
+}
+
+.Label{
+    margin-top:10px;
+    margin-left:4px;
+    padding: 5px;
+    -unity-font-style: bold;
+
+}
+
+.button{
+
+}
+
+ScriptNode {
+    padding: 5px;
+    background-color: rgba(150, 61, 82, 0.91);
+}
+
+
+DialogueNode .TextBox {
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-height: 70px;
+    padding: 1px;
+    -unity-font-style: bold;
+}
+
+DialogueNode .TextName {
+    padding: 1px;
+    -unity-font-style: bold;
+}
+
+.IfElseOrAndScript {
+    right: 240px;
+    max-width: 50px;
+        padding: 2px;
+}
+
+.equalLessMoreNorEqual{
+    max-width: 60px;
+    right: 30px;
+    padding: 2px;
+}
+
+.ScriptField{
+    right: 25px;
+    min-width: 100px;
+}
+
+.ResultField{
+    left: 220px;
+    min-width: 80px;
+}
+
